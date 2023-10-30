@@ -1,0 +1,197 @@
+﻿{
+    "Url": "www.epdata.es/porcentaje-espanoles-obesidad-sexo/ebb56245-2640-4738-b737-96758cc17a59/espana/106",
+    "Respuesta": {
+        "Id": "ebb56245-2640-4738-b737-96758cc17a59",
+        "Url": "www.epdata.es/porcentaje-espanoles-obesidad-sexo/ebb56245-2640-4738-b737-96758cc17a59/espana/106",
+        "Titulo": "Porcentaje de españoles con obesidad, por sexo",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Obesidad a nivel anual - Porcentaje de la población con obesidad para hombre como sexo, total como grupo de edad y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
+                    "Clasificacion": null,
+                    "Unidad": "Porcentaje de la población con obesidad",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 1987,
+                            "Periodo": "Año",
+                            "Parametro": "1987",
+                            "Valor": 6.9,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 1993,
+                            "Periodo": "Año",
+                            "Parametro": "1993",
+                            "Valor": 9.16,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 1995,
+                            "Periodo": "Año",
+                            "Parametro": "1995",
+                            "Valor": 10.45,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 1997,
+                            "Periodo": "Año",
+                            "Parametro": "1997",
+                            "Valor": 11.8,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2001,
+                            "Periodo": "Año",
+                            "Parametro": "2001",
+                            "Valor": 12.36,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2003,
+                            "Periodo": "Año",
+                            "Parametro": "2003",
+                            "Valor": 13.34,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Año",
+                            "Parametro": "2006",
+                            "Valor": 15.55,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Año",
+                            "Parametro": "2011",
+                            "Valor": 18.01,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Año",
+                            "Parametro": "2014",
+                            "Valor": 17.13,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Año",
+                            "Parametro": "2017",
+                            "Valor": 18.15,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                },
+                {
+                    "Id": 1,
+                    "Nombre": "Obesidad a nivel anual - Porcentaje de la población con obesidad para mujer como sexo, total como grupo de edad y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
+                    "Clasificacion": null,
+                    "Unidad": "Porcentaje de la población con obesidad",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 1987,
+                            "Periodo": "Año",
+                            "Parametro": "1987",
+                            "Valor": 7.91,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 1993,
+                            "Periodo": "Año",
+                            "Parametro": "1993",
+                            "Valor": 9.34,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 1995,
+                            "Periodo": "Año",
+                            "Parametro": "1995",
+                            "Valor": 11.43,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 1997,
+                            "Periodo": "Año",
+                            "Parametro": "1997",
+                            "Valor": 13.02,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2001,
+                            "Periodo": "Año",
+                            "Parametro": "2001",
+                            "Valor": 14.05,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2003,
+                            "Periodo": "Año",
+                            "Parametro": "2003",
+                            "Valor": 13.88,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Año",
+                            "Parametro": "2006",
+                            "Valor": 15.19,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Año",
+                            "Parametro": "2011",
+                            "Valor": 16.04,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Año",
+                            "Parametro": "2014",
+                            "Valor": 16.68,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Año",
+                            "Parametro": "2017",
+                            "Valor": 16.74,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
