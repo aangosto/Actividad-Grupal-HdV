@@ -1,0 +1,265 @@
+﻿{
+    "Url": "www.epdata.es/poblacion-colesterol-elevado/e75b2cf8-ce6b-4ae5-a257-65dfd83e4dd2/espana/106",
+    "Respuesta": {
+        "Id": "e75b2cf8-ce6b-4ae5-a257-65dfd83e4dd2",
+        "Url": "www.epdata.es/poblacion-colesterol-elevado/e75b2cf8-ce6b-4ae5-a257-65dfd83e4dd2/espana/106",
+        "Titulo": "Población con colesterol elevado",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Colesterol elevado a nivel anual - Porcentaje de la población con colesterol elevado para hombre como sexo, total como grupo de edad y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
+                    "Clasificacion": null,
+                    "Unidad": "Porcentaje de la población con colesterol elevado",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 1993,
+                            "Periodo": "Año",
+                            "Parametro": "1993",
+                            "Valor": 7.77,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 1995,
+                            "Periodo": "Año",
+                            "Parametro": "1995",
+                            "Valor": 8.84,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 1997,
+                            "Periodo": "Año",
+                            "Parametro": "1997",
+                            "Valor": 7.78,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2001,
+                            "Periodo": "Año",
+                            "Parametro": "2001",
+                            "Valor": 10.28,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2003,
+                            "Periodo": "Año",
+                            "Parametro": "2003",
+                            "Valor": 9.62,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Año",
+                            "Parametro": "2006",
+                            "Valor": 13.66,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Año",
+                            "Parametro": "2011",
+                            "Valor": 15.93,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Año",
+                            "Parametro": "2014",
+                            "Valor": 15.67,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Año",
+                            "Parametro": "2017",
+                            "Valor": 16.1,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                },
+                {
+                    "Id": 1,
+                    "Nombre": "Colesterol elevado a nivel anual - Porcentaje de la población con colesterol elevado para mujer como sexo, total como grupo de edad y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
+                    "Clasificacion": null,
+                    "Unidad": "Porcentaje de la población con colesterol elevado",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 1993,
+                            "Periodo": "Año",
+                            "Parametro": "1993",
+                            "Valor": 8.58,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 1995,
+                            "Periodo": "Año",
+                            "Parametro": "1995",
+                            "Valor": 10.02,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 1997,
+                            "Periodo": "Año",
+                            "Parametro": "1997",
+                            "Valor": 8.54,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2001,
+                            "Periodo": "Año",
+                            "Parametro": "2001",
+                            "Valor": 11.49,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2003,
+                            "Periodo": "Año",
+                            "Parametro": "2003",
+                            "Valor": 11.26,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Año",
+                            "Parametro": "2006",
+                            "Valor": 14.34,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Año",
+                            "Parametro": "2011",
+                            "Valor": 16.77,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Año",
+                            "Parametro": "2014",
+                            "Valor": 17.24,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Año",
+                            "Parametro": "2017",
+                            "Valor": 16.91,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                },
+                {
+                    "Id": 2,
+                    "Nombre": "Colesterol elevado a nivel anual - Porcentaje de la población con colesterol elevado para total como sexo, total como grupo de edad y España como país",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
+                    "Clasificacion": null,
+                    "Unidad": "Porcentaje de la población con colesterol elevado",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 1993,
+                            "Periodo": "Año",
+                            "Parametro": "1993",
+                            "Valor": 8.17,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 1995,
+                            "Periodo": "Año",
+                            "Parametro": "1995",
+                            "Valor": 9.45,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 1997,
+                            "Periodo": "Año",
+                            "Parametro": "1997",
+                            "Valor": 8.17,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2001,
+                            "Periodo": "Año",
+                            "Parametro": "2001",
+                            "Valor": 10.91,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2003,
+                            "Periodo": "Año",
+                            "Parametro": "2003",
+                            "Valor": 10.46,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2006,
+                            "Periodo": "Año",
+                            "Parametro": "2006",
+                            "Valor": 14.01,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2011,
+                            "Periodo": "Año",
+                            "Parametro": "2011",
+                            "Valor": 16.36,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Año",
+                            "Parametro": "2014",
+                            "Valor": 16.48,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Año",
+                            "Parametro": "2017",
+                            "Valor": 16.51,
+                            "Estado": "Definitivo",
+                            "Notas": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}
