@@ -1,12 +1,4 @@
-﻿{
-    "Url": "www.epdata.es/porcentaje-espanoles-obesidad-sexo/ebb56245-2640-4738-b737-96758cc17a59/espana/106",
-    "Respuesta": {
-        "Id": "ebb56245-2640-4738-b737-96758cc17a59",
-        "Url": "www.epdata.es/porcentaje-espanoles-obesidad-sexo/ebb56245-2640-4738-b737-96758cc17a59/espana/106",
-        "Titulo": "Porcentaje de españoles con obesidad, por sexo",
-        "Subtitulo": "",
-        "Datos": {
-            "Metricas": [
+
                 {
                     "Id": 0,
                     "Nombre": "Obesidad a nivel anual - Porcentaje de la población con obesidad para hombre como sexo, total como grupo de edad y España como país",
@@ -191,7 +183,3 @@
                         }
                     ]
                 }
-            ]
-        }
-    }
-}
