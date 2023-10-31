@@ -1,56 +1,56 @@
 [
         {
             "Agno": 1993,
-            "Hombres": 9.16,
-            "Mujeres": 9.34,
-            "Ambos_Sexos": 9.25
+            "Hombres": 7.77,
+            "Mujeres": 8.58,
+            "Ambos_Sexos": 8.17
         },
         {
             "Agno": 1995,
-            "Hombres": 10.45,
-            "Mujeres": 11.43,
-            "Ambos_Sexos": 10.94
+            "Hombres": 8.84,
+            "Mujeres": 10.02,
+            "Ambos_Sexos": 9.45
         },
         {
             "Agno": 1997,
-            "Hombres": 11.8,
-            "Mujeres": 13.02,
-            "Ambos_Sexos": 12.41
+            "Hombres": 7.78,
+            "Mujeres": 8.54,
+            "Ambos_Sexos": 8.17
         },
         {
             "Agno": 2001,
-            "Hombres": 12.36,
-            "Mujeres": 14.05,
-            "Ambos_Sexos": 13.2
+            "Hombres": 10.28,
+            "Mujeres": 11.49,
+            "Ambos_Sexos": 10.91
         },
         {
             "Agno": 2003,
-            "Hombres": 13.34,
-            "Mujeres": 13.88,
-            "Ambos_Sexos": 13.61
+            "Hombres": 9.62,
+            "Mujeres": 11.26,
+            "Ambos_Sexos": 10.46
         },
         {
             "Agno": 2006,
-            "Hombres": 15.55,
-            "Mujeres": 15.19,
-            "Ambos_Sexos": 15.37
+            "Hombres": 13.66,
+            "Mujeres": 14.34,
+            "Ambos_Sexos": 14.01
         },
         {
             "Agno": 2011,
-            "Hombres": 18.01,
-            "Mujeres": 16.04,
-            "Ambos_Sexos": 17.8
+            "Hombres": 15.93,
+            "Mujeres": 16.77,
+            "Ambos_Sexos": 16.36
         },
         {
             "Agno": 2014,
-            "Hombres": 17.13,
-            "Mujeres": 16.68,
-            "Ambos_Sexos": 16.9
+            "Hombres": 15.67,
+            "Mujeres": 17.24,
+            "Ambos_Sexos": 16.48
         },
         {
             "Agno": 2017,
-            "Hombres": 18.15,
-            "Mujeres": 16.74,
-            "Ambos_Sexos": 17.44
+            "Hombres": 16.1,
+            "Mujeres": 16.91,
+            "Ambos_Sexos": 16.51
         }
     ]
