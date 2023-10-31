@@ -1,185 +1,56 @@
-
-                {
-                    "Id": 0,
-                    "Nombre": "Obesidad a nivel anual - Porcentaje de la población con obesidad para hombre como sexo, total como grupo de edad y España como país",
-                    "SonDatosNumericos": true,
-                    "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
-                    "Clasificacion": null,
-                    "Unidad": "Porcentaje de la población con obesidad",
-                    "Escala": "Unidades",
-                    "EscalaFactorPotencia10": 0,
-                    "Datos": [
-                        {
-                            "Agno": 1987,
-                            "Periodo": "Año",
-                            "Parametro": "1987",
-                            "Valor": 6.9,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 1993,
-                            "Periodo": "Año",
-                            "Parametro": "1993",
-                            "Valor": 9.16,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 1995,
-                            "Periodo": "Año",
-                            "Parametro": "1995",
-                            "Valor": 10.45,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 1997,
-                            "Periodo": "Año",
-                            "Parametro": "1997",
-                            "Valor": 11.8,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 2001,
-                            "Periodo": "Año",
-                            "Parametro": "2001",
-                            "Valor": 12.36,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 2003,
-                            "Periodo": "Año",
-                            "Parametro": "2003",
-                            "Valor": 13.34,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 2006,
-                            "Periodo": "Año",
-                            "Parametro": "2006",
-                            "Valor": 15.55,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 2011,
-                            "Periodo": "Año",
-                            "Parametro": "2011",
-                            "Valor": 18.01,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 2014,
-                            "Periodo": "Año",
-                            "Parametro": "2014",
-                            "Valor": 17.13,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 2017,
-                            "Periodo": "Año",
-                            "Parametro": "2017",
-                            "Valor": 18.15,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        }
-                    ]
-                },
-                {
-                    "Id": 1,
-                    "Nombre": "Obesidad a nivel anual - Porcentaje de la población con obesidad para mujer como sexo, total como grupo de edad y España como país",
-                    "SonDatosNumericos": true,
-                    "Fuente": "Ministerio de Sanidad, Servicios Sociales e Igualdad",
-                    "Clasificacion": null,
-                    "Unidad": "Porcentaje de la población con obesidad",
-                    "Escala": "Unidades",
-                    "EscalaFactorPotencia10": 0,
-                    "Datos": [
-                        {
-                            "Agno": 1987,
-                            "Periodo": "Año",
-                            "Parametro": "1987",
-                            "Valor": 7.91,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 1993,
-                            "Periodo": "Año",
-                            "Parametro": "1993",
-                            "Valor": 9.34,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 1995,
-                            "Periodo": "Año",
-                            "Parametro": "1995",
-                            "Valor": 11.43,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 1997,
-                            "Periodo": "Año",
-                            "Parametro": "1997",
-                            "Valor": 13.02,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 2001,
-                            "Periodo": "Año",
-                            "Parametro": "2001",
-                            "Valor": 14.05,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 2003,
-                            "Periodo": "Año",
-                            "Parametro": "2003",
-                            "Valor": 13.88,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 2006,
-                            "Periodo": "Año",
-                            "Parametro": "2006",
-                            "Valor": 15.19,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 2011,
-                            "Periodo": "Año",
-                            "Parametro": "2011",
-                            "Valor": 16.04,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 2014,
-                            "Periodo": "Año",
-                            "Parametro": "2014",
-                            "Valor": 16.68,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        },
-                        {
-                            "Agno": 2017,
-                            "Periodo": "Año",
-                            "Parametro": "2017",
-                            "Valor": 16.74,
-                            "Estado": "Definitivo",
-                            "Notas": ""
-                        }
-                    ]
-                }
+[
+        {
+            "Agno": 1993,
+            "Hombres": 9.16,
+            "Mujeres": 9.34,
+            "Ambos_Sexos": 9.25
+        },
+        {
+            "Agno": 1995,
+            "Hombres": 10.45,
+            "Mujeres": 11.43,
+            "Ambos_Sexos": 10.94
+        },
+        {
+            "Agno": 1997,
+            "Hombres": 11.8,
+            "Mujeres": 13.02,
+            "Ambos_Sexos": 12.41
+        },
+        {
+            "Agno": 2001,
+            "Hombres": 12.36,
+            "Mujeres": 14.05,
+            "Ambos_Sexos": 13.2
+        },
+        {
+            "Agno": 2003,
+            "Hombres": 13.34,
+            "Mujeres": 13.88,
+            "Ambos_Sexos": 13.61
+        },
+        {
+            "Agno": 2006,
+            "Hombres": 15.55,
+            "Mujeres": 15.19,
+            "Ambos_Sexos": 15.37
+        },
+        {
+            "Agno": 2011,
+            "Hombres": 18.01,
+            "Mujeres": 16.04,
+            "Ambos_Sexos": 17.8
+        },
+        {
+            "Agno": 2014,
+            "Hombres": 17.13,
+            "Mujeres": 16.68,
+            "Ambos_Sexos": 16.9
+        },
+        {
+            "Agno": 2017,
+            "Hombres": 18.15,
+            "Mujeres": 16.74,
+            "Ambos_Sexos": 17.44
+        }
+    ]
